@@ -1,5 +1,7 @@
 # Calendário/Agenda 📆
 
+<img src="calendar-project.png" height="300">
+
 ## Introdução 
 
 Este projeto apresenta um calendário, inicialmente simples, fixo do mês de junho de 2024, desenvolvido com HTML e CSS. O objetivo inicial é a criação de um calendário funcional, que será aprimorado gradativamente com a adição de novas funcionalidades e interatividade.
