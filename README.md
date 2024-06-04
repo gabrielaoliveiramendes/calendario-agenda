@@ -11,7 +11,9 @@ Este projeto apresenta um calendário, inicialmente simples, fixo do mês de jun
 - [ ] Adição de compromissos/eventos em datas específicas;
 - [ ] Visualização de todos os eventos em uma data específica;
 - [ ] Mudança automática na tonalidade da cor da data de acordo com a quantidade de eventos agendados (mais eventos = cor mais escura, menos eventos = cor mais clara);
-- [ ] Responsividade para layouts de tela de celular e outros dispositivos.
+- [ ] Responsividade para layouts de tela de celular e outros dispositivos;
+- [ ] Acesso a previsão do tempo através do menu;
+- [ ] Acesso ao crônometro através do menu.
 
 ## Tecnologias Utilizadas até o momento
 
